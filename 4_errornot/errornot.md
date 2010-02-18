@@ -22,11 +22,11 @@
 
 !SLIDE
 
-# Multi project #
+# Multi projects #
 
 !SLIDE
 
-# Multi user #
+# Multi users #
 
 !SLIDE
 
