@@ -1,6 +1,6 @@
 !SLIDE
 
-# SOLUTIONS ? #
+# What about current Solutions? #
 
 !SLIDE
 
@@ -9,17 +9,17 @@
 
 !SLIDE
 
-# One mail #
-# by exception #
+# One email #
+# by raised exception #
 
 !SLIDE
 
 # Bad solution #
+# Spam Spam Spam #
 
 !SLIDE
 
 # Exception Logger #
-
 ### http://github.com/defunkt/exception_logger ###
 
 !SLIDE
@@ -32,23 +32,23 @@
 
 !SLIDE
 
-# Need manage authentication #
+# Need to manage authentication #
 # by yourself #
 
 !SLIDE
 
-# What happen #
-# if your application is DOWN ? #
+# What happens #
+# if your application is DOWN? #
 
 !SLIDE
 
 # You don't know #
-# if your exception is resolved #
+# if your exception has been resolved #
 
 !SLIDE
 
 # You don't know #
-# if your exception already exist #
+# if your exception is a new one #
 
 !SLIDE
 
@@ -57,7 +57,7 @@
 !SLIDE
 
 # Hoptoad #
-## http://hoptoadapp.com ##
+### http://hoptoadapp.com ###
 
 !SLIDE
 
@@ -73,12 +73,12 @@
 
 !SLIDE
 
-# Mark error like resolved #
+# Mark errors as resolved #
 
 !SLIDE
 
 # Send email #
-# only on new exception #
+# only on new exceptions #
 
 !SLIDE
 
@@ -91,12 +91,12 @@
 
 !SLIDE
 
-# Limit to #
+# Limited to #
 # one user #
 
 !SLIDE
 
-# Limit to #
+# Limited to #
 # one project #
 
 !SLIDE

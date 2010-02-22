@@ -1,7 +1,7 @@
 !SLIDE
 
 # ErrorNot #
-# created by AF83 #
+# created by af83 #
 ## http://www.af83.com/ ##
 
 !SLIDE
@@ -31,14 +31,14 @@
 !SLIDE
 
 # You can #
-# Add collaborator on
+# Add collaborator on #
 # your project #
 
 !SLIDE
 
 # You can #
-# mark resolved or not #
-# your exceptions #
+# mark exceptions #
+# as resolved #
 
 !SLIDE
 
@@ -48,10 +48,10 @@
 
 !SLIDE
 
-# If the exception already save #
+# If the exception is already saved #
 # in ErrorNot #
-# You don't have a new one. #
-# It's added #
+# It's added to the original error #
+# Not a new one #
 
 !SLIDE
 
@@ -62,10 +62,12 @@
 !SLIDE
 
 # Each user #
-# define if receive or not an email to each
-# new Exception #
+# define if he receives an email
+# on each new Error #
 
 !SLIDE
 
-# Plugin Rails #
-# Fork from Hoptoad_notifier #
+# Plugin for Rails #
+# Forked from Hoptoad_notifier #
+## http://github.com/AF83/errornot_notifier ##
+

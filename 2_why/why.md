@@ -1,10 +1,10 @@
 !SLIDE
 
-# Why ? #
+# Why? #
 
 !SLIDE
 
-# No code has no bug #
+# No code are bug free #
 
 !SLIDE
 
@@ -12,27 +12,28 @@
 
 !SLIDE
 
-# How Manage your Exception ? #
+# How to Manage your Exceptions? #
 
 !SLIDE
 
-# By Email ? #
+# By Email? #
 
 !SLIDE
 
-# Not a lot of email ? #
+# Not a ton of emails? #
 
 !SLIDE
 
-# You read it ? #
+# You read it? #
 
 !SLIDE
 
-# REALLY ? #
+# REALLY? #
 
 !SLIDE
 
-# You avoid to have new one ? #
+# Do you fix them? #
+# Or just add a filter to hide them? #
 
 !SLIDE
 
@@ -48,7 +49,7 @@
 
 !SLIDE
 
-# it's painfull #
+# It's painful #
 
 !SLIDE
 
@@ -60,50 +61,51 @@
 
 !SLIDE
 
-# So no system to check your exceptions ? #
+# So, no system to check your exceptions? #
 
 !SLIDE
 
-# GREP on log ? #
+# GREP on log? #
 
 !SLIDE
 
-# It's longggggg #
+# It's looooooooong #
 
 !SLIDE
 
-# You know #
-# if someone check that or not ? #
+# Do you know #
+# if someone else checked that or not? #
 
 !SLIDE
 
 # You copy #
-# this grep on a new Ticket on your bugtracker ? #
+# this grep on a new Ticket on your bugtracker? #
 
 !SLIDE
 
 # Not bad, #
-# but have you no better to do ? #
+# but is there no better way to do this? #
 
 !SLIDE
 
-# So #
-# why you want ? #
+# So, #
+# what do you want? #
 
 !SLIDE
 
 # Email #
-# on new Exception #
+# on new Errot #
 
 !SLIDE
 
 # Only #
-# on new Exception, not allways #
+# on new Error
+# not on the same Error again and again #
 
 !SLIDE
 
 # Know #
-# if exception is report a lot of time or not #
+# if exceptions are reported a lot of times or not #
 
 !SLIDE
 
@@ -113,21 +115,20 @@
 !SLIDE
 
 # Comment #
-# an exception to other developper #
+# an error for other developpers #
 
 !SLIDE
 
 # Create ticket #
-# on my bugtracker automatic #
+# on my bugtracker automatically #
 
 !SLIDE
 
-# New developper can see old Exception #
+# New developper can see old Exceptions #
 
 !SLIDE
 
 # Know #
-# if my Exception already had #
-# 3 month ago #
-
+# if my Error has already happened #
+# 3 months ago #
 

@@ -1,21 +1,21 @@
 !SLIDE
 
-# NEXT STEP ? #
+# NEXT STEP? #
 
 !SLIDE
 
-# Use it #
+# Use it! #
 
 !SLIDE
 
 # Report #
-# all errors #
+# any bug #
 # about it #
 
 !SLIDE
 
 # Add #
-# some other notification #
+# some other notifications #
 
 !SLIDE
 
@@ -34,12 +34,12 @@
 
 # Notification #
 # by DIGEST #
-# max one email by day #
+# max one email per day #
 
 !SLIDE
 
 # Add #
-# other language Adapter #
+# other language Adapters #
 
 ## PHP ##
 ## Python ##
