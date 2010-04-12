@@ -6,9 +6,13 @@
 
 !SLIDE
 
+# Maintain by the commmunity
+
+!SLIDE
+
 # Open Source #
 # AGPLv3 #
-## http://github.com/AF83/ErrorNot ##
+## [http://github.com/errornot/ErrorNot](http://github.com/errornot/errornot) ##
 
 !SLIDE
 
@@ -69,5 +73,19 @@
 
 # Plugin for Rails #
 # Forked from Hoptoad_notifier #
-## http://github.com/AF83/errornot_notifier ##
+## [http://github.com/shingara/errornot_notifier](http://github.com/shingara/errornot_notifier)
 
+!SLIDE
+
+# plugin Python (WSGI)
+## [http://bitbucket.org/virtuo/errornot_notifier_py/wiki/Home](http://bitbucket.org/virtuo/errornot_notifier_py/wiki/Home)
+
+!SLIDE
+
+# PHP plugin
+## [http://github.com/francois2metz/php-errornot](http://github.com/francois2metz/php-errornot)
+
+!SLIDE
+
+# Drupal plugin
+## [http://drupal.org/project/errornot](http://drupal.org/project/errornot)

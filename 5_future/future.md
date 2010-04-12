@@ -35,11 +35,3 @@
 # Notification #
 # by DIGEST #
 # max one email per day #
-
-!SLIDE
-
-# Add #
-# other language Adapters #
-
-## PHP ##
-## Python ##
